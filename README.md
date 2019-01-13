@@ -1,1 +1,1 @@
-# DynamicPushdownAutomaton is implements with graph structure and stack straucture,
+# DynamicPushdownAutomaton is implements with graph structure and stack structure,
